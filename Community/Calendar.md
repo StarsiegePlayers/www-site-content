@@ -5,12 +5,10 @@
     description: Aggregate of calendars managed by the API 
     showEditLink: false
 
-    notes: this will eventually use the Starsiege Player's for management
-
 ---
 
 <script>
-
+import Calendar from "../../src/components/Calendar.svelte";
 </script>
 
 <Calendar />
