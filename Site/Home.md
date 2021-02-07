@@ -7,17 +7,16 @@
 ---
 
 <script>
-    
-    
-    
-
+import HomeData from "../../src/store/home.js";
+import TileGroup from "../../src/components/TileGroup.svelte";
+import DiscordOnline from "../../src/components/DiscordOnline.svelte";
+import News from "../../src/components/News.svelte";
 </script>
 
 ::: div bg-primary rounded-3 boarder-3 p-4 mb-5
 
-# We are Starsiege Players
+<img src="/static/img/logo.png" alt="Starsiege Players - Keeping the drea, alive since 1999" />
 
-*Keeping the dream alive since 1999*
 <hr />
 
 **Starsiege Players** is a dedicated community of individuals that have been playing, improving, and supporting the
