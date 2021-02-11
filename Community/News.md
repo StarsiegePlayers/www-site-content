@@ -6,4 +6,8 @@
 
     notes: embed the news feed from the api project
 ---
+<script>
+import News from "../../src/components/News.svelte";
+</script>
 
+<News header="Community News" />
