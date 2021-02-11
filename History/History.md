@@ -1,6 +1,6 @@
 ---
     title: History
-    file: History.md
+    file: History/History.md
     description: Screenshots and links to archived websites about starsiege
 ---
 
