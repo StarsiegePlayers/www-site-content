@@ -15,7 +15,7 @@ import News from "../../src/components/News.svelte";
 
 ::: div bg-primary rounded-3 boarder-3 p-4 mb-5
 
-<img src="/static/img/logo.png" alt="Starsiege Players - Keeping the drea, alive since 1999" />
+<img src="/static/img/logo.png" alt="Starsiege Players - Keeping the dream alive since 1999" />
 
 <hr />
 
