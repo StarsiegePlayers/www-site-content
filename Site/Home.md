@@ -44,6 +44,6 @@ is compatible with Windows 10
 
 ::: div row
 ::: div col-md-8
-<News header="Community News" limit=10 />
+<News header="Community News" limit=5 />
 :::
 :::
