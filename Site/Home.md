@@ -9,7 +9,7 @@
 <script>
 import HomeData from "../../src/store/home.js";
 import TileGroup from "../../src/components/TileGroup.svelte";
-import DiscordOnline from "../../src/components/DiscordOnline.svelte";
+import DiscordOnline from "../../src/components/DiscordWidget/Widget.svelte";
 import News from "../../src/components/News.svelte";
 </script>
 
